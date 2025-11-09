@@ -22,6 +22,7 @@
                 alert("Đăng nhập thất bại");
                 window.location.href="index.php";
             </script>';
+            // ko co comment
         }
     }
 ?>
